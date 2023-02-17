@@ -9,3 +9,6 @@ The files contained in this directory includes
 #### `0-fizzbuzz.py`
   - This file contains some `Python` codes that prints `Fizz`, `Buzz`, `FizzBuzz` or a particular number according to the logic employed. It needs some fixing in some lines.
 
+#### `1-print_square.js`
+  - This file contains some `JavaScript` code that prints the square of a number using `#`.
+
